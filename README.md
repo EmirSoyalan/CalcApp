@@ -1,5 +1,5 @@
 # CalcApp
-A basic 4-function calculator as the first React Native project.
+A basic 4-function calculator as the first mobile React Native project.
 
 P.S. I couldn't upload all the files since capacity is low. If you are a developer, you can use it by pasting these files to an empty react native template.
 
